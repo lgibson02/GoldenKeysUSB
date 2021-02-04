@@ -1,4 +1,4 @@
-# GoldenKeysUSB (CURRENTLY ONLY FUNCTIONS ON LENOVO YOGAPAD 11)
+# GoldenKeysUSB
 [![GitHub All Releases](https://img.shields.io/github/downloads/lgibson02/GoldenKeysUSB/total?style=social)](https://github.com/lgibson02/GoldenKeysUSB/releases)
 
 This package allows you to install (or uninstall) the 'Golden Keys' unlock on a Windows RT device using only a USB drive. You do not need a Windows installation.
