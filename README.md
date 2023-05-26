@@ -1,8 +1,7 @@
 # GoldenKeysUSB
 
 ## PROJECT MOVED
-This repository is no longer maintained. An updated version of this tool can be found from the Open Surface RT group:
-https://openrt.gitbook.io/open-surfacert/common/boot-sequence/uefi/secure-boot/surface-rt-and-surface-2-jailbreak-usb
+This repository is no longer maintained. This tool has been integrated into jwa4's Tegra Jailbreak USB, which can be found [here](https://jwa4.gitbook.io/windows/tools/tegra-jailbreak-usb).
 
 This package allows you to install (or uninstall) the 'Golden Keys' unlock on a Windows RT device using only a USB drive. You do not need a Windows installation.
 
