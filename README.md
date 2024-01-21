@@ -1,8 +1,8 @@
 # GoldenKeysUSB
 
 ## PROJECT MOVED
-This repository is no longer maintained. This tool has been integrated into jwa4's Tegra Jailbreak USB, which can be found [here]([https://windows-rt-devices.gitbook.io/windows/tools/tegra-jailbreak-usb).
-windows/tools/tegra-jailbreak-usb
+This repository is no longer maintained. This tool has been integrated into jwa4's Tegra Jailbreak USB, which can be found [here](https://windows-rt-devices.gitbook.io/windows/tools/tegra-jailbreak-usb).
+
 This package allows you to install (or uninstall) the 'Golden Keys' unlock on a Windows RT device using only a USB drive. You do not need a Windows installation.
 
 The 'Golden Keys' unlock (CVE-2016-3287 / CVE-2016-3320) discovered by [@never_released](https://twitter.com/never_released) allows bypassing the SecureBoot mechanism which prevents loading code not signed by Microsoft. You can read more about it in [GOLDENKEYS.MD](https://github.com/lgibson02/GoldenKeysUSB/blob/master/GOLDENKEYS.md).
